@@ -41,7 +41,7 @@ The competition uses [Area Under the ROC Curve](https://developers.google.com/ma
 Predict whether a person applying for a home credit will be able to repay their debt or not. Data pre-processing for a large dataset of +350,000 transactions. Trained many supervised models achieving +0.72 ROC AUC. Models used where DecisionTree, XGBoost and LightGBM.
 
 You can see the whole project in the following **notebook**:
- - [Home credit default risk](https://github.com/agusle/home-credit-risk-analysis/blob/main/home-credit-default-risk.ipynb)
+    - [Home credit default risk](https://github.com/agusle/home-credit-risk-analysis/blob/main/home-credit-default-risk.ipynb)
 
 ------------------
 
