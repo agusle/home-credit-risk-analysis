@@ -23,7 +23,7 @@
 ------------------
 
 ## 📖 About
-**Problem**: Binary classification with the aim of predicting risky credit operations.
+- **Problem**: Binary classification with the aim of predicting risky credit operations.
 
 The project consists in a complete pipeline to preprocess the data, train your model and then predict values for the [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/) Kaggle competition.
 
@@ -35,9 +35,9 @@ The dataset is composed of multiple files with different information about loans
 
 The competition uses [Area Under the ROC Curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=es_419) as the evaluation metric, so the models return the probabilities that a loan is not paid for each row.
 
-**Industries**: fintech, banks, insurtech, many others related. 
+- **Industries**: fintech, banks, insurtech, many others related. 
 
-**Solution**:
+- **Solution**:
 Predict whether a person applying for a home credit will be able to repay their debt or not. Data pre-processing for a large dataset of +350,000 transactions. Trained many supervised models achieving +0.72 ROC AUC. Models used where DecisionTree, XGBoost and LightGBM.
 
 You can see the whole project in the following **notebook**:
