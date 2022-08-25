@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://github.com/agusle/home-credit-risk-analysis/blob/main/img/project-logo.PNG">
+    <img src="https://github.com/agusle/home-credit-risk-analysis/blob/main/img/project-logo.png">
 </p>
 
 <p align="center">
