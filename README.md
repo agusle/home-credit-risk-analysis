@@ -41,17 +41,26 @@ You can see the whole project in the following **notebook**:
 
 Listed below you'll find an example or application usage to run the project:
 
-- **Open and execute in Google colab:** 
+- **Open and execute in Google colab** (*you must be logged in with a google account*):
+    - Open an internet browser and go to: https://colab.research.google.com/
+    - On the menu select File / Open Notebook
+    - Select the GitHub tab and copy the project url: https://github.com/agusle/home-credit-risk-analysis
+    - Click on *home-credit-default-risk.ipynb*
+    - Make a copy to your google drive acoount clicking the following icon ![copy-to-drive](https://github.com/agusle/home-credit-risk-analysis/blob/main/img/copy-to-drive.PNG)
+    - Go to tab *Runtime* and select *Run all*.
 
-```bash
-$ insert command or instructions to run all
-```
-
+ 
 - **Open and execute in Jupyter notebook:**
+    - Open an internet browser and got to: https://nbviewer.org/
+    - Insert project path: https://github.com/agusle/home-credit-risk-analysis and press Go! button.
+    - Click on *home-credit-default-risk.ipynb* to see the notebook
+    - If you want to execute it click on *execute on binder* icon ![binder](https://github.com/agusle/home-credit-risk-analysis/blob/main/img/binder.png)
+    - Go to tab *Cell* and click on *Run all*.
 
-```bash
-$ insert command or instructions to run all
-```
+
+- **Other ways** 
+There are many other ways to open the notebook and run the whole project, you can see an example on the following link: https://soshnikov.com/education/how-to-execute-notebooks-from-github/
+
 ------------------
 
 ## 👍 Contribute
