@@ -25,7 +25,15 @@
 ## 📖 About
 **Problem**: Binary classification with the aim of predicting risky credit operations.
 
-In this particularly case I classified **if a credit applicant is creditworthy** analyizing its personal and  financial data to predict if is going to repay a loan on time. It is considered that an applicant have defaulted on its debt if it does not pay within 60 days of the due date so in this case will label with 0 those that are solvent and with 1 those that are not.
+The project consists in a complete pipeline to preprocess the data, train your model and then predict values for the [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/) Kaggle competition.
+
+Kaggle is a web platform and community for data scientist and machine learning engineers where competitions and datasets are regularly published.
+
+I want to predict whether the person applying for a home credit will be able to repay its debt or not. The competition finished many years ago, so you will find a lot of blog posts and code written for it.
+
+The dataset is composed of multiple files with different information about loans taken. In this project I am going to exclusively work with the main files: *application_train.csv* and *application_test.csv*.
+
+The competition uses [Area Under the ROC Curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=es_419) as the evaluation metric, so the models return the probabilities that a loan is not paid for each row.
 
 **Industries**: fintech, banks, insurtech, many others related. 
 
